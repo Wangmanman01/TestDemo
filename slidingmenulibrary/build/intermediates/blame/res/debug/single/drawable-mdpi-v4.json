@@ -28,12 +28,12 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\f71a57e88460628d358187939c1109abf49d8472\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\AS_Project\\TestDemo\\slidingmenulibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\f71a57e88460628d358187939c1109abf49d8472\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
         "merged": "D:\\AS_Project\\TestDemo\\slidingmenulibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\f71a57e88460628d358187939c1109abf49d8472\\output\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\AS_Project\\TestDemo\\slidingmenulibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\f71a57e88460628d358187939c1109abf49d8472\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "D:\\AS_Project\\TestDemo\\slidingmenulibrary\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",

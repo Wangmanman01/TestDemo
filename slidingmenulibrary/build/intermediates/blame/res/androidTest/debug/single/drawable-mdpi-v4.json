@@ -28,12 +28,12 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\f71a57e88460628d358187939c1109abf49d8472\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\AS_Project\\TestDemo\\slidingmenulibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\3f5fd84540497068cce6da2809ae2faccb5b53e3\\output\\res\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\AS_Project\\TestDemo\\slidingmenulibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\f71a57e88460628d358187939c1109abf49d8472\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AS_Project\\TestDemo\\slidingmenulibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\3f5fd84540497068cce6da2809ae2faccb5b53e3\\output\\res\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
         "merged": "D:\\AS_Project\\TestDemo\\slidingmenulibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
